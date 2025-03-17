@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "epub2notes",
+	"name": "Epub2Notes",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Convert EPUB files to Markdown for seamless import into Obsidian. ",
+	"author": "aoout",
+	"authorUrl": "https://github.com/aoout",
+	"fundingUrl": "https://ko-fi.com/aoout46551",
 	"isDesktopOnly": false
 }
