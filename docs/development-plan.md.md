@@ -1,0 +1,2 @@
+- In the settingstab, users can enter some paths as libraries, and then use the importepub command to display all .epubs in the library through the native modal, and users can select and import. 
+- As for parsing, I want to use the https://github.com/denstepa/epub-parser library instead of implementing it myself like the previous obsidian epub importer project, because it is difficult for me to spend energy to understand the epub standard.
